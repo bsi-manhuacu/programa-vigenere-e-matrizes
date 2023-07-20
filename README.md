@@ -1,1 +1,12 @@
-# programa-vigenere-e-matrizes
+**Programa Vigenere + Matrizes com função**
+
+Código Fonte do Projeto de Pesquisa: Métodos de criptografia de chave pública
+Aprovado no edital: EDITAL 17/2022 – PROPPI
+
+Autores:
+Carlos Alberto Salazar Mercado
+Gustavo Júlio Costa Coelho
+Daniel de Souza Carvalho
+Pedro Augusto Morais Carvalho
+Rômulo Rodrigues Pereira
+
